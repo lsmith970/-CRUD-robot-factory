@@ -1,0 +1,23 @@
+{
+  "name": "crud_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "crud.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node crud.js",
+    "dev": "nodemon"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lsmith970/-CRUD-robot-factory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lsmith970/-CRUD-robot-factory/issues"
+  },
+  "homepage": "https://github.com/lsmith970/-CRUD-robot-factory#readme"
+}
